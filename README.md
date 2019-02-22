@@ -7,3 +7,5 @@ test2
 test 3
 
 branch1
+
+branch2
